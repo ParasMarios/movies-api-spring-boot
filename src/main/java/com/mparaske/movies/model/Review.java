@@ -1,4 +1,4 @@
-package com.mparaske.movies;
+package com.mparaske.movies.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

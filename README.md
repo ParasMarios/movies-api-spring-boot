@@ -6,7 +6,7 @@ This API allows users to retrieve and manage movie data, including movie titles,
 ## Features
 
 - Retrieve a list of all movies in the database
-- Retrieve details for a specific movie by ID
+- Retrieve details for a specific movie by imdbId
 - Add review to the database
 
 ## Installation
